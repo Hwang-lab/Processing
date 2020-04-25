@@ -1,15 +1,17 @@
 이렇게 하는게 맞는지 모르겠습니다! '각 장별로'가 매주 배운 것을 말하는 거라 생각하고 과제 제출합니다.
 
-## 1주
+# 1주
 https://github.com/Hwang-lab/hi/blob/master/1.md
-## 2주
+# 2주
 https://github.com/Hwang-lab/hi/blob/master/2.md
-## 3주
+# 3주
 https://github.com/Hwang-lab/hi/blob/master/3.md
-## 4주
+# 4주
 https://github.com/Hwang-lab/hi/blob/master/4.md
-## 5주
+# 5주
 https://github.com/Hwang-lab/hi/blob/master/5.md
+
+# 과제
 
 지금까지 학습한 Processing Source Code 중에
 각 장별로 1개씩 5개를 선택하고, 이를 Github에 올린후
