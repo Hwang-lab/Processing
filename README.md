@@ -4,7 +4,7 @@
 https://github.com/Hwang-lab/hi/blob/master/1.md
 
 ## 2주
-
+https://github.com/Hwang-lab/hi/blob/master/2.md
 ## 3주
 
 ## 4주
